@@ -9,4 +9,4 @@ background-image: caustic_light.jpg
 
 Meanwhile, why not check out some
 <a target="_blank"
-   href="http://www.pandora.com/profile/stations/arkadianriver">cool tunes</a>. :O)
+   href="http://ni-nith9.tumblr.com">cool photos on tumblr</a>. :O)
