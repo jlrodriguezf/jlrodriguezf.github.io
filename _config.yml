@@ -11,37 +11,37 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: José Luis Rodríguez Fragoso
+description: Technology student from México &#x2192; Love coding, chemistry, biology & computers.
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
+  name: José Luis Rodríguez Fragoso # or company name
+  email: jlrodriguezfragoso@gmail.com
+  url: http://jlrodriguef.github.io
+first_published: 2016 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "http://jlrodriguezf.github.io" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!  
-  text: I hope you enjoy my collection
+  text: Feel free to click on any of the social media icons below to contact me.
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Featured Posts
 # - displayed at the bottom
 closing-head: Thanks for visiting
 closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/arkadianriver
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  twitter: https://twitter.com/chocheluisrf
+  github: https://github.com/jlrodriguezf
+  #linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/chocheluisrf
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   email: /contact/
   #flickr:
-  #instagram:
+  instagram: https://www.instagram.com/chocheluisrf
   #youtube-square:
   #spotify:
   #stack-overflow:
@@ -54,7 +54,7 @@ social:
   #soundcloud:
   #deviantart:
   #angellist:
-  #tumblr-square:
+  tumblr-square: https://ni-nith9.tumblr.com
   #stackexchange:
   #weibo:
   #trello:
@@ -80,7 +80,7 @@ social:
 # environment, I just put a subl.cmd file in my PATH that points to the full
 # path to Sublime's subl.exe.) Also, put your most common post extension.
 compose:
-  editor: subl
+  editor: subl.exe
   extension: md
 
 # choose where to put back and next links:
@@ -97,6 +97,7 @@ custom_extensions: 'no'
 # Build settings
 permalink: /:categories/:title.html
 markdown: kramdown
+highlight: rouge
 #sass:
 #  style: compressed
 exclude: ['site.bat','compose.rb','README.md']
