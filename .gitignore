@@ -2,6 +2,7 @@
 .jekyll-metadata
 .sass-cache/
 _data/tokens.yml
+_site/
 unique/
 _site.env
 _my/

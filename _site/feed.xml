@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Luis Rodríguez Fragoso</title>
+    <description>Technology student from México &amp;#x2192; Love coding, chemistry, biology &amp; computers.</description>
+    <link>http://jlrodriguezf.github.io/</link>
+    <atom:link href="http://jlrodriguezf.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Apr 2016 15:06:48 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 15:06:48 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>WhatsPwn 2.0</title>
+        <description>&lt;p&gt;There is a new version of the linux tool &lt;em&gt;WhatsPwn&lt;/em&gt; which features new payload options like meterpreter injection or the ability to create hidden or visible payloads and inject them into any android device.
+It is still in beta stage so there may be some bugs and some features may not work properly but updates are constantly rolling, so expect updates very soon.&lt;/p&gt;
+
+&lt;p&gt;This is  brief tutorial on how to use this tool, which just makes the process of extracting sensitive data like WhatsApp databases and fotos, and injecting backdoor payloads a lot easier.&lt;/p&gt;
+
+&lt;h3 id=&quot;installation&quot;&gt;INSTALLATION&lt;/h3&gt;
+&lt;p&gt;The first thing you need to do is clone the &lt;a href=&quot;https://github.com/jlrodriguezf/WhatsPwn&quot; title=&quot;WhatsPwn Repository&quot;&gt;repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/jlrodriguezf/WhatsPwn.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Once you have done that we can proceed.&lt;/p&gt;
+
+&lt;h3 id=&quot;configuration&quot;&gt;CONFIGURATION&lt;/h3&gt;
+&lt;p&gt;There are two files that you might want to edit first, the &lt;em&gt;config&lt;/em&gt; file and the &lt;em&gt;server&lt;/em&gt; file&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 -0500</pubDate>
+        <link>http://jlrodriguezf.github.io/posts/WhatsPwn-2.0.html</link>
+        <guid isPermaLink="true">http://jlrodriguezf.github.io/posts/WhatsPwn-2.0.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
