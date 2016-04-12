@@ -25,12 +25,12 @@ url: "http://jlrodriguezf.github.io" # the base hostname & protocol for your sit
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!  
-  text: Feel free to click on any of the social media icons below to contact me.
+  text: This site contains projects I´ve made and some tutorials. Feel free to click on any of the social media icons to contact me.
 # - title for your blog's featured posts
 features-title: Featured Posts
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+closing-head: Thanks for visiting!
+closing-para: Feel free to get in touch.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
