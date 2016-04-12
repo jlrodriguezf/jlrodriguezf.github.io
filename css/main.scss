@@ -180,6 +180,7 @@ $baseurl: '{{ site.baseurl }}/images';
   		font-family: _font(prose-family);
   		text-transform: none;
   		letter-spacing: _size(letter-spacing);
+  		//font-weight: _font(weight);
   	}
   	// might have to adjust sizes as well
   	h2 {
@@ -1476,7 +1477,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		&.style4 {
-			background-color: transparent;
+			background-color: black;
 		}
 
 		&.style5 {
