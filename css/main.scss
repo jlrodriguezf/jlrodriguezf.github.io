@@ -1159,7 +1159,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			@include padding(2em, 4em);
 			@include vendor('order', '2');
 			max-width: 48em;
-			width: 60%;
+			width: 100%;
+			text-align: center;
 		}
 
 		&:nth-child(2n) {
