@@ -11,7 +11,7 @@ excerpt: Things I like to say.
   <hr style="margin:0 0 1em 0;" />
   <h4>Featured</h4>
   <ul class="post-list">{%
-        for post in site.categories.topics %}{%
+        for post in site.categories.posts %}{%
           if post.tags contains "featured" %}
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -33,7 +33,7 @@ excerpt: Things I like to say.
       # odd, intermixing head in a list, but it works okay in Chrome, FF, Edge
 {%    endcomment %}
     <ul style="list-style-type: none;">{%
-      for post in site.categories.topics
+      for post in site.categories.posts
 %}{%    unless post.next %}
       <br /><h5>{{ post.date | date: "%Y" }}</h5>{%
         else

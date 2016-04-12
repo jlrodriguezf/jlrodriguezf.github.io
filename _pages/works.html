@@ -14,16 +14,16 @@ if site.social.linkedin-square %}
 </div>{%
 endif %}
 {%
-if site.categories.works %}
+if site.categories.projects %}
 <div class="table-wrapper">
   <table>
     <tbody>{%
-      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
-%}{%  for work in sorted_list %}
+      include fn_groupsort_reverse.html unsorted=site.categories.projects groupby='priority' sortby='date'
+%}{%  for project in sorted_list %}
       <tr>
-        <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
-        <td>{{ work.date | date: "%b %Y" }}</td>
-        <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
+        <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ project.title }}</a></b></td>
+        <td>{{ project.date | date: "%b %Y" }}</td>
+        <td>{{ project.excerpt | strip_html | truncatewords: 12 }}</td>
         <td>
           {% include techlist.html %}
         </td>
