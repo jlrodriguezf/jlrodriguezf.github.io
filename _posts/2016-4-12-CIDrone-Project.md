@@ -8,4 +8,3 @@ published: true
 excerpt: Our journey for building a Raspberry Pi drone.
 ---
 
-Test
