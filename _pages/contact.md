@@ -7,6 +7,7 @@ excerpt: Get in touch
 background-image: caustic_light.jpg
 script-includes:
   - /js/jquery.validate.min.js
+  - /js/sendmail.php
 script: |
   $("#sendemail").validate();
 ---
