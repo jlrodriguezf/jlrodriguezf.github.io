@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 author: jlrodriguezf
 comments: true
 title: WhatsPwn Project
