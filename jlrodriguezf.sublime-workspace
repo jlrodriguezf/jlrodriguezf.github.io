@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ATTA",
+				"ATTACKS_INTERFACE"
+			],
+			[
+				"MAIN",
+				"MAIN_INTERFACE"
+			],
+			[
+				"pay",
+				"PAYLOAD_NAME"
+			],
+			[
+				"CREATE",
+				"CREATE_PAYLOAD"
+			],
+			[
+				"LEGITIM",
+				"LEGITIMATE_APK"
+			],
+			[
+				"JAVA",
+				"JAVA_PATH"
+			],
+			[
+				"IN",
+				"INTERFACE"
+			],
+			[
+				"US",
+				"USER"
+			],
+			[
+				"PAYLOAD",
+				"PAYLOAD_NAME"
+			],
+			[
+				"W",
+				"WDIR"
+			],
+			[
+				"EXTRACTIO",
+				"extraction"
+			],
+			[
+				"DEVIC",
+				"DEVICE_IP"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"FULL",
+				"FULL_ATTACK"
+			],
+			[
+				"BACKUP",
+				"BACKUP_PROMPT"
+			],
+			[
+				"EOF",
+				"EOF"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "---\nlayout: post\nauthor: jlrodriguezf\ncomments: true\ntitle: CIDrone\ncategories: projects\npublished: true\nexcerpt: Our journey for building a Raspberry Pi drone.\n---\n\n",
+			"file": "_posts/2016-4-12-CIDrone-Project.md",
+			"file_size": 176,
+			"file_write_time": 131050013097854530,
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2016-4-12-WhatsPwn.md",
+			"settings":
+			{
+				"buffer_size": 2131,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_data",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_layouts",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/2016-4-12-WhatsPwn-Project.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/posts.html",
+		"/C/Users/Choche/Documents/GitHub/WhatsPwn/README.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_data/tokens.yml",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/2016-4-11-WhatsPwn-2.0-Post.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/2016-4-12-WhatsPwn-2.0-Guide.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_layouts/post.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/2016-4-12-Test-Project.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/techlist.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/works.html",
+		"/C/Users/Choche/Documents/worksbackup.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/worksbackup.html",
+		"/C/Users/Choche/Documents/GitHub/WhatsPwn/whatspwn",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/contact.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_layouts/default.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/mailtome.php",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/sendmail.php",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/.gitignore",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/disqus.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_data/authors.yml",
+		"/C/cygwin64/home/Choche/WhatsPwn/whatspwn",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/2016-4-11-WhatsPwn-2.0.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/footer.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/topics.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_config.yml",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/2016-12-04-whatspwn.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_drafts/2016-12-04-whatspwn.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_drafts/2016-12-04-test2.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_layouts/landing.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_site/index.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_site/posts/WhatsPwn-2.0.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_site/posts/index.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/index.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/html5up_README.txt",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_sass/libs/_functions.scss",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/robots.txt",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/.htaccess",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/credits.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/contact-success.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/contact-failure.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_layouts/page.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/css/main.scss",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/compose.rb",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/author-block.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/backnextnav.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/breadcrumb.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/fn_groupsort_reverse.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/fn_sortednav.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/head.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/header.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/header-inner.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_includes/scripts.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_pages/topicsbackup.html",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/3000-09-01-works-example3.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/3000-01-01-works-example1.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/3006-09-22-subcattest-topic2.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/3015-08-16-elements.html",
+		"/C/Users/Choche/Documents/about.md",
+		"/C/Users/Choche/Documents/GitHub/jlrodriguezf.github.io/_posts/3001-01-01-works-example2.md",
+		"/C/Users/Choche/Documents/2016-4-11-WhatsPwn-2.0.md",
+		"/C/Users/Choche/Documents/GitHub/CIDrone/install",
+		"/C/Users/Choche/Documents/GitHub/WhatsPwn/server",
+		"/C/Users/Choche/Documents/GitHub/WhatsPwn/config",
+		"/C/Users/Choche/Documents/whatspwn",
+		"/C/Users/Choche/Documents/GitHub/WhatsPwn/bin/motd.txt",
+		"/C/Users/Choche/Documents/whatspwn2",
+		"/C/Users/Choche/Documents/GitHub/WhatsPwn/rdfoyi44.hwi.txt",
+		"/C/Users/Choche/Documents/GitHub/WhatsPwn/vtlrrn0e.yyp.txt",
+		"/C/Users/Choche/Documents/testdir.sh",
+		"/C/Users/Choche/Documents/whatspwn2.sh",
+		"/F/RPI/etc/resolv.conf",
+		"/F/RPI/etc/resolv.conf.head",
+		"/F/RPI/etc/ssh/sshd_config",
+		"/F/RPI/etc/ssh/ssh_config",
+		"/F/RPI/etc/network/interfaces",
+		"/F/RPI/motion"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"projects",
+			"include",
+			"index",
+			"next",
+			"for",
+			"index",
+			"project",
+			"work",
+			"post",
+			"work",
+			"works",
+			"posts",
+			"PAYLOAD_INT",
+			"PAYLOAD_OPTIONS",
+			"disqus",
+			"topics",
+			"post",
+			"posts",
+			"post",
+			"posts",
+			"topic",
+			"topics",
+			"topic",
+			"work",
+			"works",
+			"topics",
+			"works",
+			"topics",
+			"work",
+			"works",
+			"posts",
+			"topics",
+			"works",
+			"topics",
+			"skills",
+			"fullwidth",
+			"transparent",
+			"font-weight",
+			"h1, h2, h3, h4, h5, h6",
+			"font-weight",
+			"800",
+			"font-weight: 800",
+			"font-weight: 800;",
+			"max-width: 40cm",
+			"max width",
+			"60%",
+			"special",
+			"section.special",
+			"center",
+			"content",
+			"TOPICS",
+			"two",
+			"categ",
+			"topics",
+			"pic02.jpg",
+			"ba",
+			"pic02.jpg",
+			"banner.png",
+			"works",
+			"banner.png",
+			"my",
+			"banner.png",
+			"works",
+			"thanks",
+			"topics",
+			"works",
+			"topic",
+			"topics",
+			"work",
+			"works",
+			"metasploi",
+			"JAR_SIGNER",
+			"APKTOOL",
+			"original",
+			"apk_v",
+			"apktool",
+			"jarsigner",
+			"apkfile",
+			"def",
+			"fix_manifest",
+			"scrapeFilesForLauncherActivity",
+			"findlauncheractivity",
+			"res",
+			"oE",
+			"PAYLOAD_INT",
+			"PAYLOAD_INIT",
+			"INTERFACE",
+			"CONNECTION_ERROR",
+			"UPC",
+			"BACKDOOR",
+			"PAYLOAD",
+			"echo",
+			"VICTIM",
+			"BD",
+			"if grep",
+			"WHATSPWNREMOTE",
+			"BD",
+			"remote",
+			"UPLOADYN",
+			"==",
+			"-z",
+			"SSHPASSMENU",
+			"EXITCODE",
+			"motd",
+			"ifautomode",
+			"auto",
+			"IFAUTOMODE",
+			"key",
+			"GoogleFramework_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"topic",
+			"topics",
+			"project",
+			"projects",
+			"posts",
+			"project",
+			"projects",
+			"posts",
+			"apktool",
+			"Legitimate",
+			"APKTOOL",
+			"JAR_SIGNER",
+			"LEGITIMATE_APK",
+			"IMPORT_PERMISSIONS",
+			"RECURSE_SEARCH",
+			"FIND_ACTIVITY",
+			"MAIN_INTERFACE",
+			"PAYLOAD",
+			"echo -e",
+			"NAME",
+			"option"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016-4-12-CIDrone-Project.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2016-4-12-WhatsPwn.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jlrodriguezf.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 401.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
