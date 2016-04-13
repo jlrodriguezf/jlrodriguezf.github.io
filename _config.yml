@@ -24,7 +24,7 @@ url: "http://jlrodriguezf.github.io" # the base hostname & protocol for your sit
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Well...Hello, Guten Tag, Bonjour, Salut. Hola!  
+  title: Well...Hello, Guten Tag, Bonjour, Salut, Hola!  
   text: My name is José Luis, I am a México based technoguy. This site contains projects I have made, some tutorials and some interesting things. Feel free to click on any of the social media icons to contact me. I hope you enjoy being around here.
 # - title for your blog's featured posts
 features-title: Featured Posts
