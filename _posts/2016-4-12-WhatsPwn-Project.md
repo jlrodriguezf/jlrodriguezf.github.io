@@ -25,6 +25,7 @@ Do not hesitate in [contacting](http://jlrodriguezf.github.io/contact/) me if yo
 	
 ---------
 ### Changelog
+
 ##### WhatsPwn 2.0
 The first version was full of awfull bugs that in some systems it was just "unrunnable". So that's why I decided to rebuild the tool from scratch.
 
@@ -41,15 +42,11 @@ The first version was full of awfull bugs that in some systems it was just "unru
 ###### Removed
 - Command line arguments
 
+--------
 ### NEXT STEPS
 The next steps would be:
-
+* Survive reboot on non-rooted devices.
 * Some sort of background connection checking.
 * Add more features like;
 	* Contacts and SMS extraction.
 	* Support for other apps not just WhatsApp and Telegram.
-* Survive reboot on non-rooted devices.
-
-
-
-
