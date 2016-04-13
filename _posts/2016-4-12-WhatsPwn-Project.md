@@ -53,3 +53,6 @@ The next steps would be;
 * Add more features like;
 	* Contacts and SMS extraction.
 	* Support for other apps not just WhatsApp and Telegram.
+
+### LICENSE & DISCLAIMER
+See the [license](https://github.com/jlrodriguezf/WhatsPwn/blob/master/LICENSE) file or the [disclaimer](https://github.com/jlrodriguezf/WhatsPwn/blob/master/bin/DISCLAIMER) file.
