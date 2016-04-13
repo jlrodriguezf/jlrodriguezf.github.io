@@ -46,7 +46,8 @@ The first version was full of awfull bugs that in some systems it was just "unru
 ---------
 
 ### NEXT STEPS
-The next steps would be:
+The next steps would be;
+
 * Survive reboot on non-rooted devices.
 * Some sort of background connection checking.
 * Add more features like;
