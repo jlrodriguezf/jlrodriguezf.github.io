@@ -17,7 +17,7 @@ This program has been tested on Android 5.0.2 Lollipop on an LG H818n. It works 
 
 Do not hesitate in [contacting](http://jlrodriguezf.github.io/contact/) me if you have any question o suggestion.
 
-[Here](http://jlrodriguezf.github.io/posts/WhatsPwn-2.0.html) is the complete **tutorial** for this tool.
+[Here](http://jlrodriguezf.github.io/posts/WhatsPwn-2.0-Post.html) is the complete **tutorial** for this tool.
 
 ###### * This tool is currently in beta state, expect updates soon.
 
