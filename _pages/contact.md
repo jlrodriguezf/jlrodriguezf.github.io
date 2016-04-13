@@ -33,6 +33,7 @@ script: |
         </ul>
       </div>
     </div>
+    <input type="hidden" name="redirect_to" value="http://jlrodriguezf.github.io/contact-success/" />
     <input type="hidden" name="success"
            value="{{ '/contact-success' | prepend: site.baseurl | prepend: site.url }}" />
     <input type="hidden" name="failure"
