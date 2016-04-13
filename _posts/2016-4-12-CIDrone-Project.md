@@ -5,9 +5,6 @@ comments: true
 title: CIDrone
 categories: projects
 published: true
-tags:
-	- Those
-	- Example
 excerpt: Our journey for building a Raspberry Pi drone.
 ---
-Test
+Test	
