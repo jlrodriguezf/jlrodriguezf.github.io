@@ -9,7 +9,6 @@ if page.author %}{%
   if auth.disqus_shortname %}
 <div id="disqus_thread" class="disqus"></div>
 <script>
-   <script id="dsq-count-scr" src="//jlrodriguezf.disqus.com/count.js" async></script>
 var disqus_config = function () {
 this.page.url = '{{ auth.url }}{{ page.url }}';
 this.page.identifier = '{{ page.path | replace: "_posts/","" | replace: ".md","" | replace: ".html", "" }}';
