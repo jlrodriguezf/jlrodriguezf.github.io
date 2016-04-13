@@ -5,7 +5,7 @@
 google-analytics: <google-analytics tracking ID>
 
 # Specify your mail form action, whether it be cgiemail, PHP, whatever
-mailaction: https://formspree.io/jlrodriguezfragoso@gmail.com
+mailaction: https://getsimpleform.com/messages?form_api_token=7069c41e07a5b87db526edec51ad255f
 # If you've added more vendor contributions that are only applicable to
 # posts on your specific site, you can add to the "credits" list here,
 # so that they won't be propagated to other forks and clones
