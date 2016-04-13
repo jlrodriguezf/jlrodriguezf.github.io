@@ -5,7 +5,7 @@ layout: default
     <div class="inner{% if page.options contains 'fullwidth' %} fullwidth{% endif %}">{%
       unless site.navlinks == 'none'
 %}{%    if page.categories contains 'projects'
-%}{%      assign idxperma = '/project/'
+%}{%      assign idxperma = '/projects/'
 %}{%      assign idxtitle = 'Projects Index'
 %}{%      assign idxbutton = 'Index'
 %}{%      include fn_groupsort_reverse.html unsorted=site.categories.projects groupby='priority' sortby='date'
@@ -31,7 +31,6 @@ layout: default
         style="margin-top:3px;" />{%
       endunless
 %}{%  if page.categories contains 'projects' and page.tags %}
-      <h4>Description</h4>
   {%    assign project = page
 %}{%    include techlist.html %}
   {%  endif
