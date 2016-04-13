@@ -25,7 +25,7 @@ script: |
         <input required type="text" minlength="2" name="subject" id="subject" value="" placeholder="Subject" />
       </div>
       <div class="12u$">
-        <textarea required name="textbody" id="textbody" placeholder="Enter your message" rows="6"></textarea>
+        <textarea required name="textbody" id="textbody" placeholder="Enter your message" rows="10"></textarea>
       </div>
       <div class="12u$">
         <ul class="actions">
