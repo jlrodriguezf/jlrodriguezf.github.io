@@ -24,6 +24,7 @@ Do not hesitate in [contacting](http://jlrodriguezf.github.io/contact/) me if yo
 ###### * This tool is for educational and android developing purposes only. This was made to test and expose Android and WhatsApp security flaws.
 	
 ---------
+
 ### Changelog
 
 ##### WhatsPwn 2.0
@@ -42,7 +43,8 @@ The first version was full of awfull bugs that in some systems it was just "unru
 ###### Removed
 - Command line arguments
 
---------
+---------
+
 ### NEXT STEPS
 The next steps would be:
 * Survive reboot on non-rooted devices.
