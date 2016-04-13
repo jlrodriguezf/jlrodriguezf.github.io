@@ -19,9 +19,9 @@ Do not hesitate in [contacting](http://jlrodriguezf.github.io/contact/) me if yo
 
 [Here](http://jlrodriguezf.github.io/posts/WhatsPwn-2.0.html) is the complete **tutorial** for this tool.
 
-###### This tool is currently in beta state, expect updates soon.
+###### * This tool is currently in beta state, expect updates soon.
 
-###### This tool is for educational and android developing purposes only. This was made to test and expose Android and WhatsApp security flaws.
+###### * This tool is for educational and android developing purposes only. This was made to test and expose Android and WhatsApp security flaws.
 	
 ---------
 ### Changelog
