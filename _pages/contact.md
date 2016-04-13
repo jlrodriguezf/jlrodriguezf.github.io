@@ -13,7 +13,7 @@ script: |
 
 {::options parse_block_html="false" /}
 <section>
-  <form id="sendemail" method="post" action="{{ site.data.tokens.mailaction }}">
+  <form id="sendemail" method="post" action="mailto:{{ site.data.tokens.mailaction }}">
     <div class="row uniform">
       <div class="6u 12u$(xsmall)">
         <input type="text" name="name" id="name" value="" placeholder="Name" />
