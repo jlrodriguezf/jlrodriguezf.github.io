@@ -4,7 +4,7 @@ author: jlrodriguezf
 comments: true
 title: How I got expelled from highschool
 categories: posts
-published: false
+published: true
 excerpt: A brief story on how i got expelled from highschool for hacking computers.
 ---
 
