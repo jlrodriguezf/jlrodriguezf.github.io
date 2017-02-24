@@ -5,7 +5,7 @@ comments: true
 title: How I got expelled from highschool
 categories: posts
 published: false
-excerpt: A breif story on how i got expelled from highschool for hacking computers.
+excerpt: A brief story on how i got expelled from highschool for hacking computers.
 ---
 
 I've always been so interested in computer science and specifically in cybersecurity. When i was younger, i started digging the internet on how to breach Windows security policies and how to perform attacks. All seemed quite easy and i didn't want to stay in the theory, i wanted to test it for myself. So first of all, i set up a Linux virtual machine, and started experimenting on my own network and computer.
