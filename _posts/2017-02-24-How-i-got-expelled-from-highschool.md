@@ -24,4 +24,6 @@ Anyway, continuing with the story; i started studying and acquiring information 
 
 Everything went as planned but it was just a single computer i wanted to do it on all of them (24 aprox.) but i was so lazy to do it manually so i created an USB Rubber Ducky script to do it for me. I just plugged the USB, waited a few seconds and it was done it had fulle access to the computers from everywhere. Could do any kind of stuff from sending messages to sniffing the network, change notes, intercept and inject packages to the network, get passwords and sensitive info, etc.
 
+All this could be prevent just by a simple thing as setting up a BIOS password.
+
 I'm not proud of any of these, i fully regret doing this, i apologize to everyone who i may have harmed in any way. This is just to make a point on the importance of cybersecurity in institutions and companies, and specially in home. Many of us don't pay attention to the potential risk of the internet and technology. We must be fully aware of the risks.
